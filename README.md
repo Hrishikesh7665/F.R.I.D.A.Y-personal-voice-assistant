@@ -1,3 +1,6 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+
 # F.R.I.D.A.Y-personal-voice-assistant
 F.R.I.D.A.Y, python voice controlled assistant.
 
