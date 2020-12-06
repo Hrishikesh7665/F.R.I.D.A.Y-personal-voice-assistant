@@ -1,0 +1,9 @@
+pillow
+playsound
+SpeechRecognition
+pyttsx3==2.7
+google
+PySide2
+translate
+wikipedia
+geopy
