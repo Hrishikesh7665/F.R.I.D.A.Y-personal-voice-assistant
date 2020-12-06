@@ -55,8 +55,46 @@ F.R.I.D.A.Y, python voice controlled assistant.
 You Also Need To Turn On Less Secure App In Your Google Account. 
 
 
-### F.R.I.D.A.Y Demo
+### Screenshot
+![](Screenshot/Demo.gif)
 
+
+- Light Mode
+1)
+![](Screenshot/l1.png)
+
+2)
+![](Screenshot/l2.png)
+
+3)
+![](Screenshot/l3.png)
+
+4)
+![](Screenshot/l4.png)
+
+5)
+![](Screenshot/l5.png)
+
+6)
+![](Screenshot/l6.png)
+
+
+- Loading Screen
+![](Screenshot/Load.png)
+
+
+- Dark Mode
+1)
+![](Screenshot/D1.png)
+
+2)
+![](Screenshot/D2.png)
+
+3)
+![](Screenshot/D3.png)
+
+4)
+![](Screenshot/D4.png)
 
 
 
