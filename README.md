@@ -1,4 +1,5 @@
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![](https://img.shields.io/badge/Supported%20OS-Windows-blue)](https://www.microsoft.com/en-in/software-download/windows10)
 
 
 # F.R.I.D.A.Y-personal-voice-assistant
