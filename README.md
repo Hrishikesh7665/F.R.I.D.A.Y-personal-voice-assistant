@@ -8,7 +8,9 @@ F.R.I.D.A.Y, python voice controlled assistant.
 
 ## Installation 
 **Install all required modules or run requirment.txt (pip install -r requirements.txt)**
+
 **Run F.R.I.D.A.Y.py**
+
 **Enjoy.**
 
 
